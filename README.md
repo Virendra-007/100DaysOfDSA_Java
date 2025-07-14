@@ -2,4 +2,5 @@
 Daily learning progress on Java, DSA, Spring Boot &amp; SQL
 ## Progress Log
 
-- ✅ Day 1: Learned basic Java syntax, loops, and uploaded Day1_Code.java
+- ✅ Day 1: Learned basic Java syntax, loops, and uploaded file. {day 1}
+- ✅ Day 2: Learned Java Strings and solved an easy array problem.
