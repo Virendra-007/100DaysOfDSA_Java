@@ -1,0 +1,17 @@
+# 🚀 Day 3 - Sorting & Searching in Java
+✅ What I Learned
+
+ Merge Sort
+- A Divide and Conquer algorithm
+- Time Complexity: `O(n log n)`
+- Works by dividing the array and merging sorted parts
+
+ Quick Sort
+- Another Divide and Conquer algorithm
+- Time Complexity: `O(n log n)` average, `O(n^2)` worst-case
+- Selects a pivot and partitions the array around it
+
+ Linear Search
+- Simple search algorithm
+- Time Complexity: `O(n)`
+- Checks each element sequentially
