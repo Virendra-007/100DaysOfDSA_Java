@@ -4,3 +4,5 @@ Daily learning progress on Java, DSA, Spring Boot &amp; SQL
 
 - ✅ Day 1: Learned basic Java syntax, loops, and uploaded file. {day 1}
 - ✅ Day 2: Learned Java Strings and solved an easy array problem.
+- ✅ Day 3: Learned Java Sorting and searching techniques and solved an easy problems each.
+
