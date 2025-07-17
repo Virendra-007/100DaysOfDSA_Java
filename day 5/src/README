@@ -1,0 +1,23 @@
+##  Problem Statement:
+You are given integers X, Y, Z, and two arrays A and B of length N.  
+You must perform **N operations**, each choosing one of:
+1. Subtract B[i] from sum
+2. Decrease X and Y by 1, then add A[i] × X × Y × Z to sum
+3. Decrease Y and Z by 1, then add A[i] × X × Y × Z to sum
+
+### Conditions:
+- After every operation, X, Y, Z ≥ 0
+- Find the **maximum sum possible**
+- Return answer modulo 10⁹ + 7
+
+##  Code Written:
+- Solved using Java basics like:
+  - Arrays
+  - Loops
+  - If conditions
+  - Simple logic without advanced DSA
+
+##  Learnings:
+- Practiced logic building for real constraints
+- Strengthened array handling and arithmetic logic
+- Learned how to simulate multiple operations with state tracking
