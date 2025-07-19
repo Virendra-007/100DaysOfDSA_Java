@@ -7,3 +7,4 @@ Daily learning progress on Java, DSA, Spring Boot and SQL
 - ✅ Day 3: Learned Java Sorting and searching techniques and solved an easy problems each.
 - ✅ Day 4: Continued learning Java methods and wrote a simple program using functions.
 - ✅ Day 5: Solved a custom Java logic problem involving conditional operations with arrays.
+- ✅ Day 6: Learned SQL basics, created a sample database and ran initial commands.
