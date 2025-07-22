@@ -1,0 +1,19 @@
+ --Day 9 – SQL Joins and Data Filtering
+ Topics Covered:
+ **SQL JOINs**: Combining data from multiple tables
+  - `INNER JOIN`
+  - `LEFT JOIN`
+  - `RIGHT JOIN`
+  - `FULL OUTER JOIN` (theory only if unsupported)
+ 
+-**Filtering with WHERE clause**
+- Using 'AND', `OR`, and comparison operators (`=`, `<`, `>`, `!=`)
+- Understanding how to extract meaningful insights by combining and filtering rows
+
+Practice Queries:
+sql
+SELECT students.name, courses.course_name
+FROM students
+INNER JOIN enrollments ON students.id = enrollments.student_id
+INNER JOIN courses ON enrollments.course_id = courses.id;
+
