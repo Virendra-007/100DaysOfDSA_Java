@@ -10,4 +10,5 @@ Daily learning progress on Java, DSA, Spring Boot and SQL
 - ✅ Day 6: Learned SQL basics, created a sample database and ran initial commands.
 - ✅ Day 7: Solved a brute-force LeetCode problem using Java.
 - ✅ Day 8: Participated in a mock test and solved a coding problem using brute-force logic.
+- ✅ Day 9: Learned SQL JOINs and data filtering using WHERE, AND, OR.
 
