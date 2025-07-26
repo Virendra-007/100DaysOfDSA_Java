@@ -1,0 +1,19 @@
+Day 12 – Official Start to Spring Boot Journey + SQL Mastery
+
+## 📚 Topics Covered:
+- Finished full SQL playlist:
+  - `CREATE`, `UPDATE`, `DELETE`, `ALTER`, `DROP`
+  - Constraints: `PRIMARY KEY`, `UNIQUE`, `DEFAULT`, `AUTO_INCREMENT`
+- Covered Spring + Spring Boot overview:
+  - Inversion of Control (IoC), Dependency Injection
+  - Starter templates, Spring Initializr
+  - RESTful architecture and HTTP methods
+
+## 📘 Spring Boot Concepts Learned:
+- `@SpringBootApplication`
+- `@RestController`, `@GetMapping`, `@PostMapping`
+- Structure of Spring Boot project (Controller, Service, Repository layers)
+
+## 🧠 SQL Recap:
+- Confident in creating, modifying, and querying tables
+- Ready to implement real project tables using SQL and connect with Spring Boot.
