@@ -1,0 +1,28 @@
+# 🚀 Day 13 – Spring Boot Basics Wrapped & Deep Dive Started
+
+## 📚 Topics Covered:
+- Finished a complete Spring Boot beginner tutorial
+  - Project structure: `Controller`, `Service`, `Repository`
+  - Configuring application properties
+  - Running the app using Spring Initializr
+- Started exploring deeper Spring Boot concepts:
+  - Dependency Injection (DI)
+  - Inversion of Control (IoC) in real projects
+  - REST APIs in detail with `@RequestParam`, `@PathVariable`, `@RequestBody`
+  - Understanding how Spring handles requests under the hood
+
+## 🧠 Key Learnings:
+- Spring Boot reduces boilerplate by using **auto configuration**
+- REST APIs can be built rapidly with proper layer separation
+- DI & IoC are powerful principles that make code modular and testable
+- Gained confidence to begin building real-world backend apps
+
+## 🛠️ Tools Used:
+- IntelliJ IDEA
+- Spring Initializr
+- Postman (for testing APIs)
+
+## 📌 Next Focus:
+- Build a simple CRUD API (Employee or Product Management)
+- Connect Spring Boot to MySQL
+- Learn about JPA (`@Entity`, `@Repository`, `@Id`)
