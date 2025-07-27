@@ -14,5 +14,6 @@ Daily learning progress on Java, DSA, Spring Boot and SQL
 - ✅ Day 10: Created SQL tables and learned about data types and constraints.
 - ✅ Day 11: Solved LeetCode SQL problems and explored Spring Boot basics.
 - ✅ Day 12: Officially started Spring Boot journey and completed SQL fundamentals.
-- 
+- ✅ Day 13: Completed Spring Boot basics tutorial and started exploring deeper backend concepts like DI and RESTful APIs.
+
 
