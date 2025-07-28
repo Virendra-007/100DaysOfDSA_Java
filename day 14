@@ -1,16 +1,14 @@
-# 🌐 Day 14 – Spring Boot Setup & Hello World API
+Day 14 – Spring Boot Setup & Hello World API
 
-## ✅ What I Did:
+What I Did:
 - Set up a Spring Boot project using **Spring Initializr**
 - Learned about **project structure**:
-  - `src/main/java` for business logic
-  - `src/main/resources` for configuration (`application.properties`)
-- Created my **first REST API** using `@RestController`
+  - src/main/java for business logic
+  - src/main/resources for configuration (application.properties)
+- Created my **first REST API** using @RestController
 - Tested the API locally with Postman/browser
-
-## 🧩 Code Overview:
-
-```java
+Code Overview:
+java
 @RestController
 public class HelloController {
 
