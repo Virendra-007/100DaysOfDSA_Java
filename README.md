@@ -15,5 +15,6 @@ Daily learning progress on Java, DSA, Spring Boot and SQL
 - ✅ Day 11: Solved LeetCode SQL problems and explored Spring Boot basics.
 - ✅ Day 12: Officially started Spring Boot journey and completed SQL fundamentals.
 - ✅ Day 13: Completed Spring Boot basics tutorial and started exploring deeper backend concepts like DI and RESTful APIs.
+- ✅ Day 14: Set up Spring Boot project and created first Hello World REST API.
 
 
