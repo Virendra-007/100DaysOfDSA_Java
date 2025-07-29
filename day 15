@@ -1,1 +1,43 @@
+# 🌐 Day 15 – REST API: GET, POST, PUT, DELETE + Postman Testing
+
+## 📚 Topics Covered:
+- Learned the 4 core REST API operations:
+  - `GET` → Retrieve data
+  - `POST` → Create new data
+  - `PUT` → Update existing data
+  - `DELETE` → Remove data
+- Created dummy endpoints in Spring Boot
+- Tested each route using **Postman**
+
+## 👨‍💻 Example Endpoints:
+
+```java
+@RestController
+@RequestMapping("/api")
+public class RestApiController {
+
+    // GET
+    @GetMapping("/greet")
+    public String greet() {
+        return "Hello, REST API!";
+    }
+
+    // POST
+    @PostMapping("/create")
+    public String create(@RequestBody String data) {
+        return "Data created: " + data;
+    }
+
+    // PUT
+    @PutMapping("/update")
+    public String update(@RequestBody String data) {
+        return "Data updated: " + data;
+    }
+
+    // DELETE
+    @DeleteMapping("/delete/{id}")
+    public String delete(@PathVariable int id) {
+        return "Deleted item with ID: " + id;
+    }
+}
 
