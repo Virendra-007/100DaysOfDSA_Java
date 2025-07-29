@@ -1,6 +1,6 @@
-# 🌐 Day 15 – REST API: GET, POST, PUT, DELETE + Postman Testing
+Day 15 – REST API: GET, POST, PUT, DELETE + Postman Testing
 
-## 📚 Topics Covered:
+Topics Covered:
 - Learned the 4 core REST API operations:
   - `GET` → Retrieve data
   - `POST` → Create new data
@@ -9,7 +9,7 @@
 - Created dummy endpoints in Spring Boot
 - Tested each route using **Postman**
 
-## 👨‍💻 Example Endpoints:
+Example Endpoints:
 
 ```java
 @RestController
