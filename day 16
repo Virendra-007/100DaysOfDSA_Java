@@ -1,1 +1,17 @@
+Day 16: Spring Boot Annotations & Beans
+**What I learned:**
+- The role and importance of Spring Boot annotations.
+- Deep dive into `@SpringBootApplication` — combining `@Configuration`, `@EnableAutoConfiguration`, and `@ComponentScan`.
+- Created and used **custom beans** using `@Component`, `@Bean`, and `@Autowired`.
+- Understood the **dependency injection** concept in Spring Boot.
+- Successfully ran a Spring Boot application and accessed it via **web browser**.
+
+**Practiced:**
+- Registered beans in multiple ways.
+- Used `@RestController` and `@GetMapping` to serve data on the browser.
+- Verified bean lifecycle and autowiring through basic outputs.
+
+**Outcome:**
+- Got comfortable with the building blocks of Spring Boot.
+- Confident in building small REST-based applications using beans and annotations.
 
