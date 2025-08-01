@@ -18,6 +18,7 @@ Daily learning progress on Java, DSA, Spring Boot and SQL
 - ✅ Day 14: Set up Spring Boot project and created first Hello World REST API.
 - ✅ Day 15: Learned REST API methods (GET, POST, PUT, DELETE) and tested APIs with Postman.
 - ✅ Day 16: Spring Boot Annotations & Beans.
+- ✅ Day 17 & 18: Spring Data JPA + Database Integration.
 - 
 
 
