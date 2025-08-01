@@ -1,21 +1,20 @@
+ Day 17 & 18: Spring Data JPA + Database Integration
 
-### ✅ Day 17 & 18: Spring Data JPA + Database Integration
-
-📌 **What I learned:**
+**What I learned:**
 - Introduction to **Spring Data JPA**: powerful abstraction over JDBC.
 - Connected Java application to:
-  - ✅ In-memory database (**H2**) for quick testing
-  - ✅ Relational database (**MySQL**) for persistent data storage
+  - In-memory database (**H2**) for quick testing
+  - Relational database (**MySQL**) for persistent data storage
 - Understood how JPA simplifies CRUD operations with minimal boilerplate.
 
-🔖 **Key Annotations & Concepts:**
+**Key Annotations & Concepts:**
 - `@Entity` – marked a Java class as a JPA entity (mapped to a database table)
 - `@Id` and `@GeneratedValue` – for primary key setup
 - `@Repository` – to define a DAO layer (interface) that Spring auto-implements
-- `CrudRepository`, `JpaRepository` – extended interfaces for DB operations
+- `CrudRepository`, `JpaRepository` – extended interfaces for DB operation.
 - `application.properties` – configured DB credentials and JPA settings
 
-🧪 **Hands-on Practice:**
+**Hands-on Practice:**
 - Created a model/entity class (e.g., `User`, `Product`)
 - Linked to MySQL and verified DB table creation
 - Used `save()`, `findAll()`, `findById()`, and `deleteById()` methods
@@ -25,10 +24,3 @@
 - Successfully performed full **CRUD operations** using JPA.
 - Gained real-time experience in creating production-like backend logic.
 - Built a base for future REST APIs and enterprise-level applications.
-
-📂 _Files added_:  
-- `Day17_18/Entity/Product.java`  
-- `Day17_18/Repository/ProductRepository.java`  
-- `Day17_18/Application.java`  
-- `Day17_18/application.properties`  
-- `Day17_18/README.md`
