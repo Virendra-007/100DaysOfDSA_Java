@@ -20,7 +20,8 @@ Daily learning progress on Java, DSA, Spring Boot and SQL
 - ✅ Day 16: Spring Boot Annotations & Beans.
 - ✅ Day 17: Spring Data JPA.
 - ✅ Day 18: Database Integration.
-- ✅ Day 19: Postman Tool & Testing REST APIs
+- ✅ Day 19: Postman Tool & Testing REST APIs.
+- ✅ Day 20: ORM, JPA, Spring Data JPA & ResponseEntity – A Step-by-Step Tutorial.
 
 
 
