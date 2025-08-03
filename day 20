@@ -1,1 +1,22 @@
+📌 **What I learned:**
 
+#### 🔹 ORM (Object Relational Mapping):
+- Technique that allows you to map Java objects to database tables.
+- Simplifies database access by removing boilerplate SQL code.
+
+#### 🔹 JPA (Java Persistence API):
+- A specification (not a framework).
+- Defines how Java objects should be stored in relational databases.
+- Core Annotations: `@Entity`, `@Id`, `@GeneratedValue`, `@Column`
+
+#### 🔹 Spring Data JPA:
+- A Spring module that implements JPA behind the scenes.
+- Provides built-in repository support: `CrudRepository`, `JpaRepository`
+- Removes the need to write custom queries for most use cases.
+
+#### 🔹 ResponseEntity (Spring Boot):
+- Used to build flexible and custom HTTP responses in a REST API.
+- Helps define status codes, headers, and response bodies clearly.
+```java
+return ResponseEntity.ok(data);
+return ResponseEntity.status(HttpStatus.NOT_FOUND).body("User not found");
