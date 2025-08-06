@@ -1,20 +1,21 @@
+**What I learned:**
 
-📌 **What I learned:**
-
-#### 🔹 SQL Joins Refresher:
+SQL Joins Refresher:
 - **INNER JOIN** – fetches matching rows from both tables
 - **LEFT JOIN** – all rows from left table + matched rows from right
 - **RIGHT JOIN** – all rows from right table + matched rows from left
 - **FULL JOIN / OUTER JOIN** – all rows when there's a match in either table
 - **CROSS JOIN** – every combination of rows (Cartesian product)
 
-#### 🔹 Spring Boot + MySQL Integration:
+----Spring Boot + MySQL Integration:
+
 - Connected two or more tables (e.g., `Employee` and `Department`)
 - Used `@OneToMany`, `@ManyToOne` and `@JoinColumn` annotations for relationships
 - Learned how to write **custom queries using JPQL** and native SQL in Spring Boot
 - Retrieved joined data via Spring JPA repositories
 
-#### 🔹 Real-Time Implementation:
+----Real-Time Implementation:
+
 - Fetched data using:
   - `@Query` annotation in Repository
   - Native SQL and JPQL
@@ -22,7 +23,7 @@
 
 ---
 
-🧪 **Practice Example:**
+**Practice Example:**
 - Tables: `Employees`, `Departments`
 - Query: Get all employees with their department names
 ```java
