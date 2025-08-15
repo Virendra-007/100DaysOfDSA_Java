@@ -24,6 +24,8 @@ Daily learning progress on Java, DSA, Spring Boot and SQL
 - ✅ Day 20: ORM, JPA, Spring Data JPA & ResponseEntity – A Step-by-Step Tutorial.
 - ✅ Day 21 & 22: Learning SQL Joins with Spring Boot Integration
 - ✅ Day 25: making a new project Using Spring Initilizer.
+- ✅ Day 26: build a project based on the spring boot "Employee management"
+- ✅ Day 27 & 28: Start the 
 
 
 
