@@ -1,1 +1,38 @@
 
+Day 28: Java Arrays & 2D Arrays
+✅ What I Learned:
+
+Array Basics:
+
+Definition & declaration in Java.
+
+Initializing arrays (static & dynamic).
+
+Accessing elements using indexes.
+
+Common mistakes like ArrayIndexOutOfBoundsException.
+
+2D Arrays:
+
+Declaring and initializing.
+
+Row & column traversal using nested loops.
+
+Difference between regular 2D arrays and jagged arrays.
+ Key Takeaways:
+
+Arrays store multiple values in a single variable.
+
+2D arrays are useful for representing matrices, grids, or tabular data.
+
+Understanding indexing is critical to avoid runtime errors.
+
+🛠 Practice:
+
+Wrote small programs for:
+
+Summing all elements in an array.
+
+Printing a matrix.
+
+Transposing a matrix.
