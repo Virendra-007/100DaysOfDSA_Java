@@ -25,7 +25,8 @@ Daily learning progress on Java, DSA, Spring Boot and SQL
 - ✅ Day 21 & 22: Learning SQL Joins with Spring Boot Integration
 - ✅ Day 25: making a new project Using Spring Initilizer.
 - ✅ Day 26: build a project based on the spring boot "Employee management"
-- ✅ Day 27 & 28: Start the 
+- ✅ Day 27 & 28: Start the java again and revisit some of the basic concepts like loops, functions and time and space complexity.
+- ✅ Day 28: starting with Array and 2D Array introduction.
 
 
 
