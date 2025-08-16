@@ -27,6 +27,7 @@ Daily learning progress on Java, DSA, Spring Boot and SQL
 - ✅ Day 26: build a project based on the spring boot "Employee management"
 - ✅ Day 27 & 28: Start the java again and revisit some of the basic concepts like loops, functions and time and space complexity.
 - ✅ Day 28: starting with Array and 2D Array introduction.
+- ✅ Day 29: Today I learned about 2D Arrays, their initialization, traversal, and use cases. 
 
 
 
