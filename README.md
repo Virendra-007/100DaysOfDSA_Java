@@ -29,7 +29,7 @@ Daily learning progress on Java, DSA, Spring Boot and SQL
 - ✅ Day 28: starting with Array and 2D Array introduction.
 - ✅ Day 29: Today I learned about 2D Arrays, their initialization, traversal, and use cases.
 - ✅ Day 30: revise all the basic concepts of the java and start doing leetcode problems 
-- ✅ Day 31: done with basics and s
+- ✅ Day 31: done with basics and 5 easy problems of leetcode.
 - ✅ Day 32:
 
 
